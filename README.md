@@ -7,4 +7,4 @@ Mente info
 Nama : Dian Novita Sinambela(●'◡'●)
 Program : IBM Advance AI
 
-Tech Stack : . python . HTML . JavaScript . Flask
+Tech Stack : . python 
